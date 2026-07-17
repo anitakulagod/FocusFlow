@@ -73,7 +73,23 @@ Run using VS Code Live Server.
 - Mobile Application
 
 ---
+## 📸 Screenshots
 
+### Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Dark Mode1
+
+![Dark Mode](images/darkmode.png)
+
+### Analytics
+
+![Analytics](images/analytics.png)
+
+### Pomodoro Timer
+
+![Pomodoro darkmode2](images/pomodoro.png)
 ## 👩‍💻 Developer
 
 **Anita K**
